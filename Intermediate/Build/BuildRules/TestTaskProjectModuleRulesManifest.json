@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\TestTaskProject\\Source\\TestTaskProject\\TestTaskProject.Build.cs",
+		"D:\\Projects\\TestTaskProject\\Source\\TestTaskProject.Target.cs",
+		"D:\\Projects\\TestTaskProject\\Source\\TestTaskProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

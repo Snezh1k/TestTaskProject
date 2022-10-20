@@ -1,0 +1,5 @@
+D:\Projects\TestTaskProject\Intermediate\Build\Win64\UE4Editor\Development\TestTaskProject\Definitions.TestTaskProject.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Projects\TestTaskProject\Source\TestTaskProject/Grabber.h
+D:\Projects\TestTaskProject\Intermediate\Build\Win64\UE4Editor\Inc\TestTaskProject\Grabber.generated.h

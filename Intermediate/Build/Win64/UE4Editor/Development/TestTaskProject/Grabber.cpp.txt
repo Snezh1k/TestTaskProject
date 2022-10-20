@@ -1,0 +1,6 @@
+D:\Projects\TestTaskProject\Intermediate\Build\Win64\UE4Editor\Development\TestTaskProject\Definitions.TestTaskProject.h
+D:\Projects\TestTaskProject\Source\TestTaskProject\Grabber.h
+D:\Projects\TestTaskProject\Intermediate\Build\Win64\UE4Editor\Inc\TestTaskProject\Grabber.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+D:\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/ChaosPerfTest.h
+D:\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedTimers.h

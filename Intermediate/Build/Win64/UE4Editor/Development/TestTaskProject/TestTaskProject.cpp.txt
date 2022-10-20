@@ -1,0 +1,2 @@
+D:\Projects\TestTaskProject\Intermediate\Build\Win64\UE4Editor\Development\TestTaskProject\Definitions.TestTaskProject.h
+D:\Projects\TestTaskProject\Source\TestTaskProject\TestTaskProject.h
